@@ -6,5 +6,5 @@ I'm a fullstack developer, project manager, and writer. I blog at [Works of Geni
 - 📚 Recently, I've been learning React and Python.
 - 📝 Ask me about improving your UX through better writing.
 - 👋 Contact me [here](https://worksofgenius.org/contact/).
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her/Hers
 - 🏝 Fun fact: I used to be a competitve swimmer. Now, I prefer to relax in an onsen. 😆
