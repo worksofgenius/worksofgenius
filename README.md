@@ -8,4 +8,3 @@ I'm a fullstack developer. I blog at [Works of Genius](https://www.worksofgenius
 - 📺 [Watch](https://www.youtube.com/watch?v=Zl-D6htsWBA&list=WL&index=9&t=3649s) my demo of Pantry.
 - 👋 Contact me [here](https://www.marisancassidy.com).
 - 😄 Pronouns: She/Her
-- 🏝 Fun fact: I used to be a competitve swimmer. Now, I prefer to relax in an onsen. 😆
