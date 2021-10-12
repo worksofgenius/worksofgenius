@@ -1,4 +1,4 @@
-### Hi, I'm Marisa! 😊
+### Hi, I'm M.! 😊
 
 I'm a fullstack developer. I blog at [Works of Genius](https://www.worksofgenius.org) about life in Japan and coding.
 
